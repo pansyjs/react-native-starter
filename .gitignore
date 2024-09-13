@@ -57,6 +57,8 @@ yarn-error.log
 
 # Ruby / CocoaPods
 /ios/Pods/
+/ios/Podfile.lock
+/ios/*xcworkspace/**
 /vendor/bundle/
 
 # Temporary files created by Metro to check the health of the file watcher
