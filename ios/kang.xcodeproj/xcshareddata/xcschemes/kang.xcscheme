@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "testapp.app"
-               BlueprintName = "testapp"
-               ReferencedContainer = "container:testapp.xcodeproj">
+               BuildableName = "kang.app"
+               BlueprintName = "kang"
+               ReferencedContainer = "container:kang.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "testappTests.xctest"
-               BlueprintName = "testappTests"
-               ReferencedContainer = "container:testapp.xcodeproj">
+               BuildableName = "kangTests.xctest"
+               BlueprintName = "kangTests"
+               ReferencedContainer = "container:kang.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "testapp.app"
-            BlueprintName = "testapp"
-            ReferencedContainer = "container:testapp.xcodeproj">
+            BuildableName = "kang.app"
+            BlueprintName = "kang"
+            ReferencedContainer = "container:kang.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "testapp.app"
-            BlueprintName = "testapp"
-            ReferencedContainer = "container:testapp.xcodeproj">
+            BuildableName = "kang.app"
+            BlueprintName = "kang"
+            ReferencedContainer = "container:kang.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

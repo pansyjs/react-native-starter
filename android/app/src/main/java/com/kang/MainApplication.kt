@@ -1,4 +1,4 @@
-package com.testapp
+package com.kang
 
 import android.app.Application
 import com.facebook.react.PackageList
